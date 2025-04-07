@@ -84,7 +84,7 @@
 <br>
 
 ## API 명세서
-- [Google Sheet](#)
+- [Google Sheet](https://docs.google.com/spreadsheets/d/1tD02BrIi5v7JpTq7oWNwFMDM1Tlr5KG1xWk3RQWLUSo/edit?gid=1878554884#gid=1878554884)
 
 <br>
 
