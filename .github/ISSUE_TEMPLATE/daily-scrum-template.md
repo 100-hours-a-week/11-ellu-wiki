@@ -3,7 +3,7 @@ name: Daily-Scrum-Template
 about: 데일리 스크럼 템플릿
 title: "[SCRUM]"
 labels: 데일리-스크럼
-assignees: ''
+assignees: TiraaK
 
 ---
 
@@ -46,4 +46,3 @@ assignees: ''
 | **내용** | **비고** | **종류** | **의사 결정자** | **논의 대상자** |
 | --- | --- | --- | --- | --- |
 | [논의할 내용] | [관련 설명] | [구분] | [이름] | [이름] |
-
