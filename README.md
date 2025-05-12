@@ -1,7 +1,7 @@
 # looper
 
 ### 프로젝트 기간: 2025.3.31 ~ <br>
-### [서비스 바로가기]([www.looper.my](https://looper.my/))
+### [서비스 바로가기](https://looper.my/))
 
 <br>
 
