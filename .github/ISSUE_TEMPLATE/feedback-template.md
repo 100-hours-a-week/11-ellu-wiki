@@ -1,6 +1,6 @@
 ---
 name: Feedback-Template
-about: 피드백 템플릿
+about: 미니 부하테스트용 피트백 템플릿
 title: "[Feedback]"
 labels: 피드백
 assignees: ''
