@@ -35,6 +35,17 @@
 <li><a href="https://github.com/100-hours-a-week/11-ellu-wiki/wiki/%5BAI-Wiki%5D-9.-LLM-%EA%B8%B0%EB%B0%98-%EC%9D%BC%EC%A0%95-%EC%83%9D%EC%84%B1-%EB%AA%A8%EB%8D%B8-MVP-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%B0%8F-%EC%A0%95%ED%99%95%EB%8F%84-%ED%8F%89%EA%B0%80">LLM 기반 일정 생성 모델 MVP 테스트 및 정확도 평가</a></li>
 
 
+<li><a href="https://github.com/100-hours-a-week/11-ellu-wiki/wiki/%5BAI-Wiki%5D-10.-%EA%B2%80%EC%A6%9D%EB%85%B8%EB%93%9C">검증 노드</a></li>
+
+<li><a href="https://github.com/100-hours-a-week/11-ellu-wiki/wiki/%5BAI-Wiki%5D-11.-%EC%9C%A0%EC%A0%80-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8-%EA%B5%AC%EC%B6%95-%EB%B0%8F-Lora-%ED%8C%8C%EC%9D%B8%ED%8A%9C%EB%8B%9D">유저 데이터 파이프라인 구축 및 Lora 파인튜닝</a></li>
+
+<li><a href="https://github.com/100-hours-a-week/11-ellu-wiki/wiki/%5BAI-Wiki%5D-12.-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94">성능 최적화</a></li>
+
+<li><a href="https://github.com/100-hours-a-week/11-ellu-wiki/wiki/%5BAI-Wiki%5D-13.-%EC%A7%80%EC%8B%9D-%EB%94%94%EB%B9%84-%EA%B5%AC%EC%B6%95%EC%9D%84-%EC%9C%84%ED%95%9C-%EB%AC%B8%EC%84%9C-%EC%84%A0%EC%A0%95%EC%8B%9C-%EA%B3%A0%EB%A0%A4%EC%82%AC%ED%95%AD">지식 디비 구축을 위한 문서 선정시 고려사항</a></li>
+
+<li><a href="https://github.com/100-hours-a-week/11-ellu-wiki/wiki/%5BAI-Wiki%5D-14.-param%EA%B3%BC-context-size%EC%97%90-%EB%94%B0%EB%A5%B8-Qwen%EB%AA%A8%EB%8D%B8-%EC%84%B1%EB%8A%A5-%EB%B9%84%EA%B5%90">param과 context size에 따른 Qwen모델 성능 비교</a></li>
+
+<li><a href="https://github.com/100-hours-a-week/11-ellu-wiki/wiki/%5BAI-WIKI%5D-15.-%EC%B1%97%EB%B4%87-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90">챗봇 아키텍쳐</a></li>
 
 </ul>
 
